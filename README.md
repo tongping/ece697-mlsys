@@ -73,7 +73,7 @@ Each class a student will present a paper, where questions could be asked in the
  
  **Body of Work:** Focus on the big idea of the work, rather than the details. However, the enough details should be present to make the presentation informative. In the end, the evaluation results of the work should be presented. (Approx. 30 minutes)
  
- **Discussion:** The presentor should write the summary of the review, and then present the strengths and weaknesses of each paper based on the review comments. It will be better if such comments are included in the slides (Approx. 15 minutes)
+ **Discussion:** The presentor should write the summary of the review, and then present the strengths and weaknesses of each paper based on the review comments of other students and yours. It will be better if such comments are included in the slides. (Approx. 15 minutes)
 
 
 ## Schedule
