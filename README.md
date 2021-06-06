@@ -106,7 +106,7 @@ Note that each project should be agreed upon with the instructor. Initially, eac
 
 - Midterm Review: each group prepares a talk around 15 minutes to talk about their progress. (10/14)
 
-- Final presentation: each group prepares a talk around 30 minutes, which is similar to a paper presentation. (11/30, 12/02, 12/07)
+- Final presentation: each group prepares a talk around 25 minutes (including Q&A), which is similar to a paper presentation. (11/30, 12/02, 12/07)
 
 - Project Deadline: you could write the report with [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers). Please ensure the results reported are reproducable by preparing your code following [this guideline](https://ctuning.org/ae/submission.html). The final report will be submitted on the moodle.   (12/08)
         
