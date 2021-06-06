@@ -102,11 +102,11 @@ Note that each project should be agreed upon with the instructor. Initially, eac
 
 **Tentative project timeline:**
 
-- Identify a Sys4ML or ML4sys problem and prepare 1-page problem statement (Sept. 14)
+- Identify a Sys4ML or ML4sys problem and prepare 1-page problem statement (09/14)
 
 - Midterm Review: each group prepares a talk around 15 minutes to talk about their progress. (10/14)
 
-- Final presentation: each group prepares a talk around 30 minutes, which is similar to a paper presentation. (12
+- Final presentation: each group prepares a talk around 30 minutes, which is similar to a paper presentation. (11/30, 12/02, 12/07)
 
-- Project Deadline: you could write the report with [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers). Please ensure the results reported are reproducable by preparing your code following [this guideline](https://ctuning.org/ae/submission.html). The final report will be submitted on the moodle.   (Dec. 8)
+- Project Deadline: you could write the report with [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers). Please ensure the results reported are reproducable by preparing your code following [this guideline](https://ctuning.org/ae/submission.html). The final report will be submitted on the moodle.   (12/08)
         
