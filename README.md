@@ -91,4 +91,22 @@ Each class a student will present a paper, where questions could be asked in the
  **Discussion:** The presentor should write the summary of the review, and then present the strengths and weaknesses of each paper based on the review comments of other students and yours. It will be better if such comments are included in the slides. (Approx. 15 minutes)
 
 
+## Project Report
+Each student should work for a project, which could be a group project (with at most 3 students). Each project should pick:
 
+- either a system problem that can benefit from the use of ML algorithms, or
+- or a use case ML application that requires systems support for data collection, machine learning training, inference, or a pipeline composing these steps. 
+
+
+Note that each project should be agreed upon with the instructor. Initially, each group need to prepare a “problem statement” report that describes the application and challenges in terms of scalability, reducing running time, and/or usability. Then students should propose a solution, implement the solution, and then validate the claims experimentally. In the end, a technical report should be included that validates the system design through performance measurements and/or user studies. We may provide some topics in the classes. 
+
+**Tentative project timeline:**
+
+- Identify a Sys4ML or ML4sys problem and prepare 1-page problem statement (Sept. 14)
+
+- Midterm Review: each group prepares a talk around 15 minutes to talk about their progress. (10/14)
+
+- Final presentation: each group prepares a talk around 30 minutes, which is similar to a paper presentation. (12
+
+- Project Deadline: you could write the report with [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers). Please ensure the results reported are reproducable by preparing your code following [this guideline](https://ctuning.org/ae/submission.html). The final report will be submitted on the moodle.   (Dec. 8)
+        
