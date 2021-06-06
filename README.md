@@ -1,4 +1,4 @@
-# ece697IL: ML and Systems
+# ece697TL: ML and Systems
 
  Machine learning is widely employed in a range of applications. This course has two parts. The first part is about ML systems, which will talk about the most recent research in machine learning, such as efficient model training, inference, and serving, distributed and parallel learning algorithms and systems, ML programming models and abstractions. The second part is about ML for systems, where ML is deployed to solve system problems, such as identifying performance, reliability, and scalability issues in both static and dynamic scenarios. This course will review cutting-edge research on these topics and allow students to work on a hands-on project. The course will primarily involve reading, presenting, and discussing papers, and a final project to build an end-to-end machine learning pipeline.
 
