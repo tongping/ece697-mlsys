@@ -15,6 +15,8 @@ This seminar follows the same structure as [COMPSCI 692S](https://guanh01.github
 **Participation Record:** 
 https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T79ws/edit?usp=sharing
 
+**Schedule:**
+http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 
 ## Grading
 - 10% presentation 
@@ -23,7 +25,7 @@ https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T7
 - 50% course project: presentation (10%), code and report (40%)
 
 **Note:** 
-<p> Presentation: Each student will be required to present at least once or twice, depending on the number of students and the papers.
+<p> Presentation: Each student will be required to present at least once or twice, depending on the number of students and the papers. In order to ensure the quality and also reduce the anxiety of presentation and preparation, each presentation should be prepared by two students together, one focus on **motivation** and **Body of Work**, while the other one will be responsible for **Discussion** section, which are detailed in the following.</p>
  
 <p>Paricipation: you should update the participation record by youself at the end of each class (within 30 minutes of the end of the class). For each class, you will need to record 4 points if you have attended, and record 2 additional points if you have participated the discussion (such as asking and helping answer the question). 120 points are required to get full credits for this part. </p>
 
@@ -74,10 +76,6 @@ Each class a student will present a paper, where questions could be asked in the
  **Body of Work:** Focus on the big idea of the work, rather than the details. However, the enough details should be present to make the presentation informative. In the end, the evaluation results of the work should be presented. (Approx. 30 minutes)
  
  **Discussion:** The presentor should write the summary of the review, and then present the strengths and weaknesses of each paper based on the review comments of other students and yours. It will be better if such comments are included in the slides. (Approx. 15 minutes)
-
-
-## Schedule
-
 
 
 
