@@ -20,20 +20,64 @@ https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T7
 - 10% presentation 
 - 20% participation: attendence, discussion
 - 20% reviews
-- 40% course project: presentation (10%), code and report (30%)
+- 50% course project: presentation (10%), code and report (40%)
 
 **Note:** 
-<p> Presentation: Each student will be required to present at least once.
+<p> Presentation: Each student will be required to present at least once or twice, depending on the number of students and the papers.
  
-<p>Paricipation: you should update the participation record by youself at the end of each class (within 30 minutes of the end of the class). For each class, you will need to record 4 points if you have attended, and record 2 additional points if you have participated the discussion (such as asking and helping answer the question). </p>
+<p>Paricipation: you should update the participation record by youself at the end of each class (within 30 minutes of the end of the class). For each class, you will need to record 4 points if you have attended, and record 2 additional points if you have participated the discussion (such as asking and helping answer the question). 120 points are required to get full credits for this part. </p>
 
-<p> Reviews: each will be required to write mandatory reviews for all papers and one summary review. We will introduce the peer review for writing the comments, where all reviews will be anonymous initially and every one could comment others with ``Good Work'' or other negative comments. The one with the most negative comments will be not counted as a qualified review, which could be compensated by writing a new review for the new paper or fix the review for the current paper. Note that all reviews should be submitted before 12/08 to be counted. The instrutor may occasionally grade the reviews.  </p>
+<p> Reviews: each will be required to write mandatory reviews for all papers and one or two summary for the presenting papers. We will introduce the peer review for  the comments, where all reviews will be anonymous initially and every one could comment others with ``Good Work'' or other negative comments. The one with the most negative comments will be not counted as a qualified review, which could be compensated by writing a new review for a new paper or fix the review for the current paper by writing a new review. **Note that the review should be submitted before the end of the day before each class** (e.g., 11:59pm of Mondays and Wednesdays), which will allow the presentor to write the summary. All reviews should be submitted before 12/08 to be counted. The instrutor may occasionally grade the reviews as well. If a student have 4 times of bad reviews will be deducted 50% of scores for the review section, and will not get any credit if getting more than 8 bad reviews.  </p>
+
+## Writing Review
+
+Each review should include more than 200 words, which includes the following content, borrowed from [Emery Berger's blog](https://emeryblogger.com/). Each review should contain the following components:
+
+- Summary: what is the overview of this paper?
+
+- Strength: what are good of this paper? 
+
+- Weakness: what shortcomings this paper may have? 
+
+- Possible extension: what you learned from the paper? What you could think of to improve the paper. 
+
+Reviews will take the following questions into account:
+
+- Is the paper well-motivated? What problem does it address, and is it an important problem?
+
+- Does the paper significantly advance the state of the art or break new ground?
+
+- What are the paper’s key insights?
+
+- What are the paper’s key scientific and technical contributions?
+
+- Does the paper credibly support its claimed contributions?
+
+- What did you learn from the paper?
+
+- Is the paper sufficiently clear that readers will be able to read and understand it?
+
+- Does the paper clearly establish its context with respect to prior work? Does it discuss prior work accurately and completely? Are comparisons with previous work clear and explicit?
+
+- Does the paper describe something that has actually been implemented? If so, has it been evaluated properly? Is it publicly available so that these results can be verified?
+
+- What impact is this paper likely to have (on theory & practice)?
+
+- Is the work of broad appeal and interest to the community?
 
 ## Presentation Guideline
 
+Each class a student will present a paper, where questions could be asked in the middle of the presentation. The presentor is also the one who will summarize the paper before each class. Thus, the typical structure of a presentation would be like this, where the remaining time will be questions time:
+
+ **Motivation:** What is the problem being addressed? Give the context of the work by assuming that audiences know nothing about this work. Why is this problem important? (Approx. 5 - 10 minutes)
+ 
+ **Body of Work:** Focus on the big idea of the work, rather than the details. However, the enough details should be present to make the presentation informative. In the end, the evaluation results of the work should be presented. (Approx. 30 minutes)
+ 
+ **Discussion:** The presentor should write the summary of the review, and then present the strengths and weaknesses of each paper based on the review comments. It will be better if such comments are included in the slides (Approx. 15 minutes)
 
 
 ## Schedule
+
 
 
 
