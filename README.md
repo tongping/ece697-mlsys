@@ -33,6 +33,8 @@ http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 
 The final grade distribution will be like the following: 
 
+| Percentage | Letter Grade |
+| ----------- | ----------- |
 | 93 ~ 100  | A  |
 | 90 ~ 92.9 | A- |
 | 87 ~ 89.9 | B+ |
