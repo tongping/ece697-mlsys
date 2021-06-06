@@ -54,7 +54,7 @@ Each review should include more than 200 words, which includes the following con
 
 - Weakness: what shortcomings this paper may have? 
 
-- Possible extension: what you learned from the paper? What you could think of to improve the paper. 
+- Possible extension: what you learned from the paper? What can you think of to improve this paper? 
 
 Reviews will take the following questions into account:
 
