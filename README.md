@@ -25,7 +25,7 @@ http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 - 50% course project: presentation (10%), code and report (40%)
 
 **Note:** 
-Presentation: Each student will be required to present at least once or twice, depending on the number of students and the papers. In order to ensure the quality and also reduce the anxiety of presentation and preparation, each presentation should be prepared by two students together, one focus on **motivation** and **Body of Work**, while the other one will be responsible for **Discussion** section, which are detailed in the following.
+Presentation: Each student will be required to present at least once or twice, depending on the number of students and the papers. In order to ensure the quality and also reduce the anxiety of presentation and preparation, each presentation should be prepared by two students together, one focus on **Motivation** and **Body of Work**, while the other one will be responsible for **Discussion** section, which are detailed in the following.
  
 Paricipation: you should update the participation record by youself at the end of each class (within 30 minutes of the end of the class). For each class, you will need to record 4 points if you have attended, and record 2 additional points if you have participated the discussion (such as asking and helping answer the question). 120 points are required to get full credits for this part. 
 
