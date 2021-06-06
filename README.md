@@ -31,6 +31,17 @@ http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 
 <p> Reviews: each will be required to write mandatory reviews for all papers and one or two summary for the presenting papers. We will introduce the peer review for  the comments, where all reviews will be anonymous initially and every one could comment others with ``Good Work'' or other negative comments. The one with the most negative comments will be not counted as a qualified review, which could be compensated by writing a new review for a new paper or fix the review for the current paper by writing a new review. **Note that the review should be submitted before the end of the day before each class** (e.g., 11:59pm of Mondays and Wednesdays), which will allow the presentor to write the summary. All reviews should be submitted before 12/08 to be counted. The instrutor may occasionally grade the reviews as well. If a student have 4 times of bad reviews will be deducted 50% of scores for the review section, and will not get any credit if getting more than 8 bad reviews.  </p>
 
+The final grade distribution will be like the following: 
+
+93 ~ 100 | A
+90 ~ 92.9 | A-
+87 ~ 89.9 | B+
+83 ~ 86.9 | B
+80 ~ 82.9 | B-
+70 ~ 79.9 | C
+60 ~ 69.9 | D
+<= 60 | F
+
 ## Writing Review
 
 Each review should include more than 200 words, which includes the following content, borrowed from [Emery Berger's blog](https://emeryblogger.com/). Each review should contain the following components:
