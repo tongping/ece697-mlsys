@@ -33,14 +33,14 @@ http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 
 The final grade distribution will be like the following: 
 
-93 ~ 100 | A
-90 ~ 92.9 | A-
-87 ~ 89.9 | B+
-83 ~ 86.9 | B
-80 ~ 82.9 | B-
-70 ~ 79.9 | C
-60 ~ 69.9 | D
-<= 60 | F
+| 93 ~ 100  | A  |
+| 90 ~ 92.9 | A- |
+| 87 ~ 89.9 | B+ |
+| 83 ~ 86.9 | B  |
+| 80 ~ 82.9 | B- |
+| 70 ~ 79.9 | C  |
+| 60 ~ 69.9 | D  |
+| <= 60     | F  |
 
 ## Writing Review
 
