@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T7
  
 <p>Paricipation: you should update the participation record by youself at the end of each class (within 30 minutes of the end of the class). For each class, you will need to record 4 points if you have attended, and record 2 additional points if you have participated the discussion (such as asking and helping answer the question). </p>
 
-<p> Reviews: each will be required to write mandatory reviews for 15 papers and one summary review. We will introduce the peer review for writing the comments, where all reviews will be anonymous initially and every one could comment others with ``Good Work'' or other negative comments. The one with the most negative comments will be not counted as a qualified review, which could be compensated with writing another reviews. Note that all reviews should be submitted before 12/08 to be counted. The instrutor may occasionally grade the reviews.  </p>
+<p> Reviews: each will be required to write mandatory reviews for all papers and one summary review. We will introduce the peer review for writing the comments, where all reviews will be anonymous initially and every one could comment others with ``Good Work'' or other negative comments. The one with the most negative comments will be not counted as a qualified review, which could be compensated by writing a new review for the new paper or fix the review for the current paper. Note that all reviews should be submitted before 12/08 to be counted. The instrutor may occasionally grade the reviews.  </p>
 
 ## Presentation Guideline
 
