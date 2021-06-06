@@ -12,15 +12,22 @@ This seminar follows the same structure as [COMPSCI 692S](https://guanh01.github
 
 **Review System:** https://umass-ece670-sp2021.hotcrp.com/
 
+**Participation Record:** 
+https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T79ws/edit?usp=sharing
+
+
 ## Grading
-- 20% participation (presentation and discussion)
-- 30% reviews
-- 50% course project:  presentation (20%), code and report (30%)
+- 10% presentation 
+- 20% participation: attendence, discussion
+- 20% reviews
+- 40% course project: presentation (10%), code and report (30%)
 
-## Review Guideline
+**Note:** 
+<p> Presentation: Each student will be required to present at least once.
+ 
+<p>Paricipation: You should update the participation record by youself. For each class, you will need to record 4 points if you have attended, and record 2 additional points if you have participated the discussion (such as asking and helping answer the question). </p>
 
-We suggest that every student should read each paper before the presentation. However, we understand that sometime you may forget to review papers. Some students may need to provide some summTo reduce the workload for you, the students will be only graded based on 80% of all papers.  
-
+<p> Reviews: each will be required to write the review for 20 papers. </p>
 
 ## Presentation Guideline
 
