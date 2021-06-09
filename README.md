@@ -10,7 +10,7 @@ This seminar follows the same structure as [COMPSCI 692S](https://guanh01.github
 
 **Piazza Link:** http://piazza.com/umass/fall2021/ece697tl
 
-**Review System:** https://umass-ece670-sp2021.hotcrp.com/
+**Review System:** https://umass-ece697tl-2021fall.hotcrp.com/
 
 **Participation Record:** 
 https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T79ws/edit?usp=sharing
