@@ -2,7 +2,12 @@
 
  Machine learning is widely employed in a range of applications. This course has two parts. The first part is about ML systems, which will talk about the most recent research in machine learning, such as efficient model training, inference, and serving, distributed and parallel learning algorithms and systems, ML programming models and abstractions. The second part is about ML for systems, where ML is deployed to solve system problems, such as identifying performance, reliability, and scalability issues in both static and dynamic scenarios. This course will review cutting-edge research on these topics and allow students to work on a hands-on project. The course will primarily involve reading, presenting, and discussing papers, and a final project to build an end-to-end machine learning pipeline.
 
-This seminar follows the same structure as [COMPSCI 692S](https://guanh01.github.io/teaching/2020-fall-mlsys) offered by Dr. Hui Guan. **It will primarily involve reading, presenting, and discussing recent papers in ML and systems, and a final project focusing on a specific ML system topic**.
+This seminar follows the same structure as [COMPSCI 692S](https://guanh01.github.io/teaching/2020-fall-mlsys) offered by Dr. Hui Guan. **It will primarily involve reading, presenting, and discussing recent papers in ML and systems, and a final project focusing on the combination of ML and system topic, either using ML to improve the system or improving a ML system (e.g., inference or training)**.
+
+## Course Prerequisites
+
+This course is not an introductory course for machine learning. Here, I assume that you have the basic background of machine learning as shown in http://cs231n.stanford.edu/ or ECE597/697ML as described in http://ece.umass.edu/ai-data-engineering/courses. Also, I assume that you have some prior knowledge in Python programming, ECE322 (https://people.umass.edu/tongping/teaching/ece322/index.html), and ECE570/670 (https://people.umass.edu/tongping/teaching/ece570/index.html). 
+
 
 ## Course Information
 
@@ -22,7 +27,7 @@ http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 - 10% presentation 
 - 20% participation: attendence, discussion
 - 20% reviews
-- 50% course project: presentation (10%), code and report (40%)
+- 50% course project: presentation (10%), bi-weekly discussion (10%), code and report (30%)
 
 **Note:** 
 Presentation: Each student will be required to present at least once or twice, depending on the number of students and the papers. In order to ensure the quality and also reduce the anxiety of presentation and preparation, each presentation should be prepared by two students together, one focus on **Motivation** and **Body of Work**, while the other one will be responsible for **Discussion** section, which are detailed in the following.
@@ -43,6 +48,10 @@ The **final grade distribution** will be like the following:
 | 70 ~ 79.9 | C  |
 | 60 ~ 69.9 | D  |
 | <= 60     | F  |
+
+## Bi-weekly Meetings
+Project meetings: you should plan to have a bi-weekly meeting at the determined slot (30 minutes) to discuss with the instructor about the progress and any issues. 
+
 
 ## Writing Review
 
