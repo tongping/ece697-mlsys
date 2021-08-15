@@ -11,7 +11,7 @@
 | 09/23 | GNN | | |
 | 09/28 | GNN | | |
 | 09/30 | GNN | | |
-| 10/5 | Security of DNN | | |
+| 10/5 | Virtual Reality | [Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering](https://arxiv.org/ftp/arxiv/papers/2102/2102.13191.pdf) | |
 | 10/7 | ML Application (Video Analytics) | [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan)| |
 | 10/12 | ML Application (Video Analytics) | | |
 | 10/14 | Autonomous Driving (General) | | |
