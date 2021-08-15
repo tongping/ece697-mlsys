@@ -2,9 +2,9 @@
 
 | Date      | Topics | Paper | Presenter | 
 | ----------- | ----------- |  ----------- |   ----------- |
-| 09/02   | DNN   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang |
-| 09/07   | DNN     | |
-| 09/09 | DNN  | | |
+| 09/02   | Deep Learning Optimization   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang |
+| 09/07   | Efficient Federated Learning     | [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai)| M.C.Xiang |
+| 09/09 | Efficient DNN Runtime  | [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs] | H.M.Yang |
 | 09/14 | DNN (Multitask Learning) | | |
 | 09/16 | DNN (Multitask Learning) | | |
 | 09/21 | DNN (Multitask Learning) | | |
@@ -16,7 +16,7 @@
 | 10/12 | ML Application (Video Analytics) | | |
 | 10/14 | Autonomous Driving (General) | | |
 | 10/19 | Autonomous Driving (General) | | |
-| 10/21 | ML Application (Autonomous Driving) | | |
+| 10/21 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang |
 | 10/26 | ML Application (Autonomous Driving) | | |
 | 10/28 | ML Application (Autonomous Driving) | | |
 | 11/02 | ML Application (Autonomous Driving) | | |
