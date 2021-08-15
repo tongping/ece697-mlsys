@@ -2,7 +2,7 @@
 
 | Date      | Topics | Paper | Presenter | 
 | ----------- | ----------- |  ----------- |   ----------- |
-| 09/02   | DNN   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) |
+| 09/02   | DNN   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang |
 | 09/07   | DNN     | |
 | 09/09 | DNN  | | |
 | 09/14 | DNN (Multitask Learning) | | |
