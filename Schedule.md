@@ -15,7 +15,7 @@
 | 10/7 | ML Application (Video Analytics) | [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan)| |
 | 10/12 | ML Application (Video Analytics) | | |
 | 10/14 | Autonomous Driving (General) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf) | |
-| 10/19 | Autonomous Driving (General) | | |
+| 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918) | |
 | 10/21 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang |
 | 10/26 | ML Application (Autonomous Driving) | | |
 | 10/28 | ML Application (Autonomous Driving) | | |
