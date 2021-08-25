@@ -16,7 +16,7 @@
 | 10/12 | ML Application (Video Analytics) | [Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)| |
 | 10/14 | Project Midterm Report| |
 | 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918) | |
-| 10/21 | ML Application (Autonomous Driving) | Autonomous Driving (General) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf)  |
+| 10/21 | ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf)  |
 | 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| |
 | 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | |
 | 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) |  |
