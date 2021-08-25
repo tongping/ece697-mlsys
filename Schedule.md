@@ -6,11 +6,11 @@
 | 09/07   | Efficient Federated Learning     | [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai)| M.C.Xiang |
 | 09/09 | Efficient DNN Runtime  | [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) | H.M.Yang |
 | 09/14 | Deep Learning Optimization | [FTPipe: Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) | |
-| 09/16 | Scheduling for Deep Learning | [IOS: Inter-Operator Scheduler for CNN Acceleration](https://arxiv.org/pdf/2011.01302.pdf) | |
+| 09/16 |Heterogeneous Training | [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) | |
 | 09/21 | Debugging Machine Learning | [Amazon SageMaker Debugger: A System for Real-Time Insights into Machine Learning Model Training](https://www.amazon.science/publications/amazon-sagemaker-debugger-a-system-for-real-time-insights-into-machine-learning-model-training)| S. Tang |
 | 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) | |
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| |
-| 09/30 | Heterogeneous Training | [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) | |
+| 09/30 | Task Scheduling | [IOS: Inter-Operator Scheduler for CNN Acceleration](https://arxiv.org/pdf/2011.01302.pdf) | |
 | 10/5 | Virtual Reality | [Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering](https://arxiv.org/ftp/arxiv/papers/2102/2102.13191.pdf) | |
 | 10/7 | ML Application (Video Analytics) | [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan)| |
 | 10/12 | ML Application (Video Analytics) | [Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)| |
