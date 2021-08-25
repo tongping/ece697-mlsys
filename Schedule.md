@@ -14,14 +14,14 @@
 | 10/5 | Virtual Reality | [Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering](https://arxiv.org/ftp/arxiv/papers/2102/2102.13191.pdf) | |
 | 10/7 | ML Application (Video Analytics) | [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan)| |
 | 10/12 | ML Application (Video Analytics) | [Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)| |
-| 10/14 | Autonomous Driving (General) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf) | |
+| 10/14 | Project Midterm Report| |
 | 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918) | |
-| 10/21 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang |
+| 10/21 | ML Application (Autonomous Driving) | Autonomous Driving (General) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf)  |
 | 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| |
 | 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | |
 | 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) |  |
 | 11/04 | ML Application (Autonomous Driving)| [Pipelined Data-Parallel CPU/GPU Scheduling for Multi-DNN Real-Time Inference](https://intra.ece.ucr.edu/~hyoseung/pdf/rtss19-dart.pdf)| |
-| 11/09 | ML Application (Autonomous Driving) | | |
+| 11/09 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang|
 | 11/11 | Veterans’ Day (holiday) |
 | 11/16 |  ML for Systems |  | |
 | 11/18 |  ML for Systems | [Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models](https://dl.acm.org/doi/10.1145/3453483.3454109) | |
