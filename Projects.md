@@ -6,6 +6,6 @@ such as Onnx, TensorFlow, and Pytorch
 5. Try to use machine learning for identifying different types of performance issues, such as NUMA architecture, field reorganization, array grouping. 
 
 
-Students could use Co-Lab, which is free.  
+Students could use google Colab for coding, which is free.  
 
 
