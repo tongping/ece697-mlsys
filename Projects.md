@@ -7,5 +7,5 @@ such as Onnx, TensorFlow, and Pytorch
 
 
 Students could use google Colab for coding, which is free.  
-
+More server usage: https://www.umass.edu/ials/mghpcc
 
