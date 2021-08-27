@@ -3,7 +3,8 @@
 3. Write an application to perform some tasks using machine learning. 
 4. Check the performance of using different frmaeworks, such as model deployment is simply the engineering task of exposing an ML model to real use.
 such as Onnx, TensorFlow, and Pytorch
-5. Try to use machine learning for identifying different types of performance issues, such as NUMA architecture, field reorganization, array grouping. 
+5. Use machine learning for identifying different types of performance issues, such as NUMA architecture, field reorganization, array grouping. 
+6. Use machine learning for identifying different types of cache issues
 
 
 Students could use google Colab for coding, which is free.  
