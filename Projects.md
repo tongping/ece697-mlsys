@@ -1,10 +1,11 @@
-1. Analyze the different prunning or quantization algorithms
-2. Design the video tracking with machine learning, and comparing to traditional traditional object detection. 
-3. Write an application to perform some tasks using machine learning. 
-4. Check the performance of using different frmaeworks, such as model deployment is simply the engineering task of exposing an ML model to real use.
-such as Onnx, TensorFlow, and Pytorch
+1. Applying ML for real applications: house value prediction, stock price prediction, flower identification, face recognization, ... or others. 
+   You could refer to https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners-in-2021/397, but you should do more than the existing source code (proposing new things, either using a newest algorithm or show the effort of improving the accuracy). 
+2. Understanding one step of ML optimization, such as computational convolution optimization, parameter factorization, network pruning, and network quantization. You could read papers about new algorithms, and then analyze different algorithms. See more details at https://arxiv.org/pdf/2101.09671.pdf
+3. Research on the internals of different machine learning frameworks, such as PyTorch or TensorFlow. Topics include but not limited to memory management, or graph handling, or comparing the performance of different framework (model deployment). 
+4. Design object tracking with machine learning, and comparing to traditional traditional object detection algorithms. 
 5. Use machine learning for identifying different types of performance issues, such as NUMA architecture, field reorganization, array grouping. 
 6. Use machine learning for identifying different types of cache issues
+7. Improving a specific step of machine learning, such as memory usage, or scheduling for multiple ML frameworks. 
 
 
 Students could use google Colab for coding, which is free.  
