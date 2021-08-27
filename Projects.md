@@ -1,10 +1,11 @@
-Analyze the different prunning algorithm or quantization 
-
-If w have done something for traditional object detection, then check how we could use it for video tracking. 
-
-check the performance of using different frmaeworks, such as Model deployment is simply the engineering task of exposing an ML model to real use.
+1. Analyze the different prunning or quantization algorithms
+2. Design the video tracking with machine learning, and comparing to traditional traditional object detection. 
+3. Write an application to perform some tasks using machine learning. 
+4. Check the performance of using different frmaeworks, such as model deployment is simply the engineering task of exposing an ML model to real use.
 such as Onnx, TensorFlow, and Pytorch
+5. Try to use machine learning for identifying different types of performance issues, such as NUMA architecture, field reorganization, array grouping. 
+
 
 Students could use Co-Lab, which is free.  
 
-Try to use machine learning for identifying different types of performance issues, such as NUMA architecture, field reorganization, array grouping. 
+
