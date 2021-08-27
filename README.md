@@ -24,8 +24,8 @@ https://docs.google.com/spreadsheets/d/1179vSCO3NU0f0wyO-xtnQDYUtDKvURLPOiJbc7T7
 http://github.com/tongping/ece697-mlsys/blob/main/Schedule.md
 
 ## Grading
-- 10% presentation 
-- 20% participation: attendence, discussion
+- 20% presentation 
+- 10% participation: attendance, discussion
 - 20% reviews
 - 50% course project: presentation (10%), bi-weekly discussion (10%), code and report (30%)
 
