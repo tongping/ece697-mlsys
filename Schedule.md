@@ -5,9 +5,9 @@
 | 09/02   | Deep Learning Optimization   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang |
 | 09/07   | Efficient DNN Runtime  | [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) | |
 <!--Efficient Federated Learning     | [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai)| M.C.Xiang |-->
-| 09/09   | 
+| 09/09   | Network Pruning  | [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://dl.acm.org/doi/abs/10.1145/3373376.3378534) | (Invited Speaker) |
 | 09/14 | Deep Learning Optimization | [FTPipe: Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) | |
-| 09/16 |Heterogeneous Training | [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) | |
+| 09/16 |Efficient DNN | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](https://dl.acm.org/doi/abs/10.1145/3453483.3454083) | |
 | 09/21 | Debugging Machine Learning | [Amazon SageMaker Debugger: A System for Real-Time Insights into Machine Learning Model Training](https://www.amazon.science/publications/amazon-sagemaker-debugger-a-system-for-real-time-insights-into-machine-learning-model-training)| S. Tang |
 | 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) | |
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| |
