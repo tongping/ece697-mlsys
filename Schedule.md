@@ -12,7 +12,7 @@
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| |
 | 09/30 | Task Scheduling | [IOS: Inter-Operator Scheduler for CNN Acceleration](https://arxiv.org/pdf/2011.01302.pdf) | |
 | 10/5 | Task Scheduling | [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) | |
-| 10/7 | ML Application (Video Analytics) | [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan)| |
+| 10/7 | Machine Learning Framework | [ TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) | |
 | 10/12 | ML Application (Video Analytics) | [Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)| |
 | 10/14 | Project Midterm Report| |
 | 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918)/[A Survey of Autonomous Driving](https://arxiv.org/pdf/1906.05113.pdf) | |
