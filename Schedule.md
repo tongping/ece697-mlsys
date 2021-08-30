@@ -25,8 +25,7 @@
 | 11/11 | Veterans’ Day (holiday) |
 | 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang |
 | 11/18 |  ML for Systems | [Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models](https://dl.acm.org/doi/10.1145/3453483.3454109) | |
-| 11/23 |  Others | [CUPiDRT: Detecting Improper GPU Usage in
-Real-Time Applications](CUPiDRT: Detecting Improper GPU Usage in Real-Time Applications)| J. Zhou|
+| 11/23 |  Others | [CUPiDRT: Detecting Improper GPU Usage in Real-Time Applications](https://ieeexplore.ieee.org/document/9470290)| J. Zhou|
 | 11/25 | Holiday |
 | 11/30 | Project Report | | |
 | 12/02 | Project Report | | |
