@@ -18,9 +18,9 @@
 | 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918)/[A Survey of Autonomous Driving](https://arxiv.org/pdf/1906.05113.pdf) | O. Kavitkar |
 | 10/21 | ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf)  |
 | 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| |
-| 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | |
+| 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | M.C. Xiang |
 | 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) |  |
-| 11/04 | ML Application (Autonomous Driving)| [Pipelined Data-Parallel CPU/GPU Scheduling for Multi-DNN Real-Time Inference](https://intra.ece.ucr.edu/~hyoseung/pdf/rtss19-dart.pdf)| |
+| 11/04 | ML Application (Autonomous Driving)| [Pipelined Data-Parallel CPU/GPU Scheduling for Multi-DNN Real-Time Inference](https://intra.ece.ucr.edu/~hyoseung/pdf/rtss19-dart.pdf)| J. Zhou |
 | 11/09 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | 
 | 11/11 | Veterans’ Day (holiday) |
 | 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang |
