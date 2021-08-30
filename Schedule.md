@@ -23,8 +23,7 @@
 | 11/04 | ML Application (Autonomous Driving)| [Pipelined Data-Parallel CPU/GPU Scheduling for Multi-DNN Real-Time Inference](https://intra.ece.ucr.edu/~hyoseung/pdf/rtss19-dart.pdf)| |
 | 11/09 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | 
 | 11/11 | Veterans’ Day (holiday) |
-| 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input
-Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang |
+| 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang |
 | 11/18 |  ML for Systems | [Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models](https://dl.acm.org/doi/10.1145/3453483.3454109) | |
 | 11/23 |  Others | [CUPiDRT: Detecting Improper GPU Usage in
 Real-Time Applications](CUPiDRT: Detecting Improper GPU Usage in Real-Time Applications)| J. Zhou|
