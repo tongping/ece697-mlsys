@@ -8,7 +8,7 @@
 | 09/14 | Deep Learning Optimization | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](https://dl.acm.org/doi/abs/10.1145/3453483.3454083) | M.C. Xiang|
 | 09/16 |Deep Learning Optimization | [FTPipe: Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) |  A. Ahmed|
 | 09/21 | Debugging Machine Learning | [Amazon SageMaker Debugger: A System for Real-Time Insights into Machine Learning Model Training](https://www.amazon.science/publications/amazon-sagemaker-debugger-a-system-for-real-time-insights-into-machine-learning-model-training)| S. Tang |
-| 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) |  |
+| 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) | H. Yang |
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| |
 | 09/30 | Task Scheduling | [IOS: Inter-Operator Scheduler for CNN Acceleration](https://arxiv.org/pdf/2011.01302.pdf) |  |
 | 10/5 | Task Scheduling | [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) | S. Tang |
