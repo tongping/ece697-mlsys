@@ -12,7 +12,7 @@
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| A. Ahmed |
 | 09/30 | Task Scheduling | [IOS: Inter-Operator Scheduler for CNN Acceleration](https://arxiv.org/pdf/2011.01302.pdf) |  |
 | 10/5 | Task Scheduling | [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) | S. Tang |
-| 10/7 | Task Scheduling | [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) |  |
+| 10/7 | Task Scheduling | [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) | B. Zylsta |
 | 10/12 | Dynamic Nerual Network | [Nimble: Efficiently Compiling Dynamic Neural Networks for Model Inferenc](https://proceedings.mlsys.org/paper/2021/file/4e732ced3463d06de0ca9a15b6153677-Paper.pdf)| H.M. Yang |
 | 10/14 | Project Midterm Report| |
 | 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918)/[A Survey of Autonomous Driving](https://arxiv.org/pdf/1906.05113.pdf) |  |
@@ -25,7 +25,7 @@
 | 11/11 | Veterans’ Day (holiday) |
 | 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang |
 | 11/18 |   ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: DesignConstraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf) | R. Dehler  |
-| 11/23 |  Others | [CUPiDRT: Detecting Improper GPU Usage in Real-Time Applications](https://ieeexplore.ieee.org/document/9470290)| J. Zhou|
+| 11/23 |  Others | [Group Equivariant Convolutional Neural Networks](http://proceedings.mlr.press/v48/cohenc16.pdf)| B. Zylsta|
 | 11/25 | Holiday |
 | 11/30 | Project Report | | |
 | 12/02 | Project Report | | |
