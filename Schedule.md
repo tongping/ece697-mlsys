@@ -24,7 +24,7 @@
 | 11/09 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang |
 | 11/11 | Veterans’ Day (holiday) |
 | 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang |
-| 11/18 |   ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: DesignConstraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf) | |
+| 11/18 |   ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: DesignConstraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf) | R. Dehler  |
 | 11/23 |  Others | [CUPiDRT: Detecting Improper GPU Usage in Real-Time Applications](https://ieeexplore.ieee.org/document/9470290)| J. Zhou|
 | 11/25 | Holiday |
 | 11/30 | Project Report | | |
