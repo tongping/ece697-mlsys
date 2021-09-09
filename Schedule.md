@@ -19,7 +19,7 @@
 | 10/21 | ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf)  | R. Dehler |
 | 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| J. Zhou |
 | 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | M.C. Xiang |
-| 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) |  |
+| 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) | J. Zhou |
 | 11/04 | ML Application (Autonomous Driving)| [Pipelined Data-Parallel CPU/GPU Scheduling for Multi-DNN Real-Time Inference](https://intra.ece.ucr.edu/~hyoseung/pdf/rtss19-dart.pdf)| B. Gill |
 | 11/09 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang |
 | 11/11 | Veterans’ Day (holiday) |
