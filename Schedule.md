@@ -10,8 +10,8 @@
 | 09/21 | Debugging Machine Learning | [Amazon SageMaker Debugger: A System for Real-Time Insights into Machine Learning Model Training](https://www.amazon.science/publications/amazon-sagemaker-debugger-a-system-for-real-time-insights-into-machine-learning-model-training)| S. Tang |
 | 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) | H. Yang |
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| A. Ahmed |
-| 09/30 | Task Scheduling | [TPrune: Efficient Transformer Pruning for Mobile Devices](https://dl.acm.org/doi/10.1145/3446640) | B. Gill |
-| 10/5 | Task Scheduling | [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) | S. Tang |
+| 09/30 | Transformer | [Attention Is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | S. Tang |
+| 10/5 | Transformer | [TPrune: Efficient Transformer Pruning for Mobile Devices](https://dl.acm.org/doi/10.1145/3446640) | B. Gill |
 | 10/7 | Task Scheduling | [GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) | B. Zylsta |
 | 10/12 | Dynamic Nerual Network | [Nimble: Efficiently Compiling Dynamic Neural Networks for Model Inferenc](https://proceedings.mlsys.org/paper/2021/file/4e732ced3463d06de0ca9a15b6153677-Paper.pdf)| H.M. Yang |
 | 10/14 | Project Midterm Report| |
