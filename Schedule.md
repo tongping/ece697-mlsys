@@ -1,7 +1,7 @@
 ## This is the schedule of the presentation.
 
-| Date      | Topics | Paper | Presenter | Slides | 
-| ----------- | ----------- |  ----------- |   ----------- |
+| Date      | Topics | Paper | Presenter | Slides |  |
+| ----------- | ----------- |  ----------- |   ----------- |  ----------- |
 | 09/02   | Deep Learning Optimization   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang | |
 | 09/07   | Machine Learning Framework  | [ TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) | J. Zhou |
 | 09/09   | Network Pruning  | [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://dl.acm.org/doi/abs/10.1145/3373376.3378534) | (Invited Speaker) | |
