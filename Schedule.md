@@ -2,13 +2,13 @@
 
 | Date      | Topics | Paper | Presenter | Slides |  
 | ----------- | ----------- |  ----------- |   ----------- |  ----------- |
-| 09/02   | Deep Learning Optimization   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang | |
+| 09/02   | Deep Learning Optimization   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang | [Rammer](slides/Rammer-20210902.pdf) |
 | 09/07   | Machine Learning Framework  | [ TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) | J. Zhou | |
 | 09/09   | Network Pruning  | [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://dl.acm.org/doi/abs/10.1145/3373376.3378534) | (Invited Speaker) | [Slides](./slides/PatDNN.pdf)|
 | 09/14 | Deep Learning Optimization | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](https://dl.acm.org/doi/abs/10.1145/3453483.3454083) | M.C. Xiang|  [DNNFusion Slides](https://github.com/tongping/ece697-mlsys/blob/main/slides/week3_Mingcan_DNNFusion.pdf) |
 | 09/16 |Deep Learning Optimization | [FTPipe: Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) |  A. Ahmed| [FTPipe Slides](https://docs.google.com/presentation/d/1EnJ810_UuHdEQN6UlU69Spn7zNGl7RYIV-9H-Eb2J-E/edit?usp=sharing) |
 | 09/21 | Debugging Machine Learning | [Amazon SageMaker Debugger: A System for Real-Time Insights into Machine Learning Model Training](https://www.amazon.science/publications/amazon-sagemaker-debugger-a-system-for-real-time-insights-into-machine-learning-model-training)| S. Tang | |
-| 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) | H. Yang | |
+| 09/23 | Deep Learning Optimization | [DeepCuts: a deep learning optimization framework for versatile GPU workloads](https://dl.acm.org/doi/10.1145/3453483.3454038) | H. Yang | [DeepCuts](slides/DeepCuts-20210923.pdf) |
 | 09/28 | Task Scheduling | [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)| A. Ahmed | [Gavel Slides](https://docs.google.com/presentation/d/1EImeORGwMey1VsxGn2gwdb4_6ig1D2xBQ6G6ls4tvsg/edit?usp=sharing)|
 | 09/30 | Transformer | [Attention Is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | S. Tang | |
 | 10/5 | Transformer | [TPrune: Efficient Transformer Pruning for Mobile Devices](https://dl.acm.org/doi/10.1145/3446640) | B. Gill | |
