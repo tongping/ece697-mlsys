@@ -25,7 +25,7 @@
 | 11/11 | Veterans’ Day (holiday) | |
 | 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang | |
 | 11/18 |   ML Application (Autonomous Driving) | [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://www.cs.rochester.edu/horizon/pubs/hpca21.pdf) | R. Dehler  | |
-| 11/23 |  Others | [Group Equivariant Convolutional Neural Networks](http://proceedings.mlr.press/v48/cohenc16.pdf)| B. Zylsta| |
+| 11/23 |  Others | [Group Equivariant Convolutional Neural Networks](http://proceedings.mlr.press/v48/cohenc16.pdf)| B. Zylsta|  [Slides](./slides/GNNAdvisor.pdf)|
 | 11/25 | Holiday | |
 | 11/30 | Project Report | | | |
 | 12/02 | Project Report | | | |
