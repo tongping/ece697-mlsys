@@ -20,7 +20,7 @@
 | 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| J. Zhou | |
 | 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | M.C. Xiang | |
 | 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) | J. Zhou | |
-| 11/04 | ML Application (Autonomous Driving)| [Pipelined Data-Parallel CPU/GPU Scheduling for Multi-DNN Real-Time Inference](https://intra.ece.ucr.edu/~hyoseung/pdf/rtss19-dart.pdf)| B. Gill | |
+| 11/04 | GNN Training| [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers](https://www.usenix.org/system/files/osdi21-thorpe.pdf) | B. Gill | |
 | 11/09 | ML Application (Autonomous Driving) | [Requirements-driven Test Generation for Autonomous Vehicles with Machine Learning Components](http://tuncali.com/publications/tuncali_iv_journal.pdf) | S. Tang | |
 || 11/11 | Veterans’ Day (holiday) | ||
 | 11/16 |  ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | M.C. Xiang | |
