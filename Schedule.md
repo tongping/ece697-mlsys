@@ -3,7 +3,7 @@
 | Date      | Topics | Paper | Presenter | Slides |
 | ----------- | ----------- |  ----------- |   ----------- |  ----------- |
 | 09/02   | Deep Learning Optimization   | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](https://www.usenix.org/conference/osdi20/presentation/ma) | H.M. Yang | [Rammer](slides/Rammer-20210902.pdf) |
-| 09/07   | Machine Learning Framework  | [ TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) | J. Zhou | |
+| 09/07   | Machine Learning Framework  | [ TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf) | J. Zhou | [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)|
 | 09/09   | Network Pruning  | [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://dl.acm.org/doi/abs/10.1145/3373376.3378534) | (Invited Speaker) | [Slides](./slides/PatDNN.pdf)|
 | 09/14 | Deep Learning Optimization | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](https://dl.acm.org/doi/abs/10.1145/3453483.3454083) | M.C. Xiang|  [DNNFusion Slides](https://github.com/tongping/ece697-mlsys/blob/main/slides/week3_Mingcan_DNNFusion.pdf) |
 | 09/16 |Deep Learning Optimization | [FTPipe: Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) |  A. Ahmed| [FTPipe Slides](https://docs.google.com/presentation/d/1EnJ810_UuHdEQN6UlU69Spn7zNGl7RYIV-9H-Eb2J-E/edit?usp=sharing) |
@@ -17,7 +17,7 @@
 | 10/14 | Project Midterm Report| | ||
 | 10/19 | Autonomous Driving (General) | [A survey of deep learning techniques for autonomous driving](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918)/[A Survey of Autonomous Driving](https://arxiv.org/pdf/1906.05113.pdf) | M.C. Xiang | [slides](https://github.com/tongping/ece697-mlsys/blob/main/slides/autonomous_driving_mingcan.pdf) |
 | 10/21 | ML Application (Autonomous Driving) | [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://www.microarch.org/micro53/papers/738300b067.pdf)  | R. Dehler | |
-| 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| J. Zhou | |
+| 10/26 | ML Application (Autonomous Driving) | [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf)| J. Zhou | [Slides](https://www.usenix.org/system/files/atc20-paper332-slides-bateni.pdf) |
 | 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | M.C. Xiang | |
 | 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) | J. Zhou | |
 | 11/04 | GNN Training| [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers](https://www.usenix.org/system/files/osdi21-thorpe.pdf) | B. Gill | |
