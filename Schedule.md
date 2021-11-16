@@ -23,7 +23,7 @@
 | 11/04 | GNN Training| [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers](https://www.usenix.org/system/files/osdi21-thorpe.pdf) | B. Gill | |
 | 11/09 | ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | R. Dehler ||
 || 11/11 | Veterans’ Day (holiday) | ||
-| 11/16 |  ML Application (Autonomous Driving) | [Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://arxiv.org/pdf/2110.06373.pdf) | S. Tang | [Slides](/blob/main/slides/Enabling Level-4 Autonomous driving on a single %241k Off-the-Shelf Card.pptx) |
+| 11/16 |  ML Application (Autonomous Driving) | [Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://arxiv.org/pdf/2110.06373.pdf) | S. Tang | [Slides]() |
 | 11/18 |   ML Application (Autonomous Driving) | [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://www.cs.rochester.edu/horizon/pubs/hpca21.pdf) | R. Dehler  | |
 | 11/23 |  Others | [Group Equivariant Convolutional Neural Networks](http://proceedings.mlr.press/v48/cohenc16.pdf)| B. Zylsta|  |
 || 11/25 | Holiday | ||
