@@ -21,9 +21,9 @@
 | 10/28 | ML Application (Autonomous Driving) | [DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9283977) | M.C. Xiang | [Deepbillboard slides](https://drive.google.com/file/d/1gDQnuGYvpajRHt6ROsQvUODegJ8kQTk1/view?usp=sharing) |
 | 11/02 | ML Application (Autonomous Driving) | [Predictable Data-driven Resource Management: an Implementation using Autoware on Autonomous Platforms](https://ieeexplore.ieee.org/document/9052198) | J. Zhou | [Slides](http://2019.rtss.org/wp-content/uploads/2020/05/205_Presentation.pdf)|
 | 11/04 | GNN Training| [Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers](https://www.usenix.org/system/files/osdi21-thorpe.pdf) | B. Gill | |
-| 11/09 | ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | R. Dehler | 
+| 11/09 | ML Application (Autonomous Driving) | [DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187) | R. Dehler ||
 || 11/11 | Veterans’ Day (holiday) | ||
-| 11/16 |  ML Application (Autonomous Driving) | [Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://arxiv.org/pdf/2110.06373.pdf) | S. Tang | |
+| 11/16 |  ML Application (Autonomous Driving) | [Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://arxiv.org/pdf/2110.06373.pdf) | S. Tang | [Slides](/blob/main/slides/Enabling%20Level-4%20Autonomous%20driving%20on%20a%20single%20%241k%20Off-the-Shelf%20Card.pptx) |
 | 11/18 |   ML Application (Autonomous Driving) | [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://www.cs.rochester.edu/horizon/pubs/hpca21.pdf) | R. Dehler  | |
 | 11/23 |  Others | [Group Equivariant Convolutional Neural Networks](http://proceedings.mlr.press/v48/cohenc16.pdf)| B. Zylsta|  |
 || 11/25 | Holiday | ||
